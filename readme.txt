@@ -1,6 +1,6 @@
-=== Google Captcha ===
+=== Google Captcha (reCAPTCHA) ===
 Contributors: bestwebsoft
-Tags: captcha, recaptcha, google, google captcha, text captcha, spam, antispam, login, registration, comment, lost password, shortcode
+Tags: captcha, recaptcha, google, google captcha, reCAPTCHA, re captcha, re-captcha, text captcha, spam, antispam, login, registration, comment, lost password, shortcode, capcha, catcha, captha
 Requires at least: 3.0
 Tested up to: 3.8.1
 Stable tag: 1.01
