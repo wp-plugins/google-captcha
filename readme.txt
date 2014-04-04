@@ -135,7 +135,7 @@ Please make sure that the problem hasn't been discussed yet on our forum (<a hre
 = V1.02 - 03.04.2014 =
 * Update : Screenshots are updated.
 * Update : BWS plugins section is updated.
-* Budfix : Plugin optimization is done.
+* Bugfix : Plugin optimization is done.
 
 = V1.01 - 05.02.2014 =
 * Bugfix : The bug with adding comments from admin panel was fixed.
